@@ -1,5 +1,7 @@
 # Getting Started with OpenCDx
 
+## <span style="color: rgba(131,56,138, 1);">OpenCDx — Engineered by Safe Health Systems, Inc.</span>
+
 **Table of Contents**  
 *Use the Table of Contents below to quickly navigate through the key sections and repositories of the OpenCDx platform.*  
 
@@ -12,6 +14,7 @@
   - [OpenCDx ADR-gui](#4-opencdx-adr-gui)
   - [OpenCDx UI Library](#5-opencdx-ui-library)
 - [Next Steps](#next-steps)
+- [Related Links](#related-links)
 - [OpenCDx Team Members](#opencdx-team-members)
    
 ## Introduction
@@ -112,7 +115,13 @@ To get started with OpenCDx, follow these steps:
 
 All OpenCDx repositories seamlessly integrate to offer a scalable and efficient solution for clinical data management and healthcare interoperability.
 
-For detailed overview read - [OpenCDx Initiative](https://github.com/opencdx/.github/blob/main/README.md)
+---
+
+## Related Links
+
+Explore additional resources and documentation to deepen your understanding of OpenCDx, its use cases, and the broader ecosystem. Below you'll find helpful links providing more detailed explanations, guides, and background information to support your OpenCDx implementation.
+
+- [OpenCDx Initiative Overview](https://github.com/opencdx/.github/blob/main/README.md)
 
 ---
    

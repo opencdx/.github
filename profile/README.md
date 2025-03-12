@@ -16,13 +16,14 @@
    
 ## Introduction
 
-OpenCDx is a comprehensive platform designed for **clinical data management**, offering secure, scalable, and interoperable solutions across healthcare systems. The OpenCDx ecosystem includes several repositories that work together to streamline data management, enable clinical decision-making, and enhance user experiences.   
+OpenCDx is a comprehensive platform designed for clinical data management, offering secure, scalable, and interoperable solutions across healthcare systems. The OpenCDx ecosystem includes several repositories that work together to streamline data management, enable clinical decision-making, and enhance user experiences.   
    
 > **🚀 Minimum Installation**
 > 
-> To get started you need the core **[OpenCDx Repository](https://github.com/opencdx/opencdx)**.
+> To get started, you only need the core **[OpenCDx Repository](https://github.com/opencdx/opencdx)**.
 
-[OpenCDx Repository](https://github.com/opencdx/opencdx) forms the platform's backbone, providing core backend services, secure clinical data management, and interoperability. The [OpenCDx GUI](https://github.com/opencdx/opencdx-gui) repository enhances this core, adding an administrative dashboard for system configuration and management, along with a client-facing application to facilitate public user interaction. Data collected via **OpenCDx** is stored and also extended to the [OpenCDx ADR](https://github.com/opencdx/ADR) repository. Stored data can then be easily queried using [OpenCDx ADR-gui](https://github.com/opencdx/ADR-gui). Additionally, the [OpenCDx UI Library](https://github.com/opencdx/ui-library) ensures visual consistency by providing reusable UI components across all platform interfaces.  
+## Repositories Overview
+The [OpenCDx Repository](https://github.com/opencdx/opencdx) forms the platform's backbone, providing core backend services, secure clinical data management, and interoperability. The [OpenCDx GUI](https://github.com/opencdx/opencdx-gui) repository enhances this core, adding an administrative dashboard for system configuration and management, along with a client-facing application to facilitate public user interaction. Data collected via **OpenCDx and OpenCDx-GUI** is stored and also extended to the [OpenCDx ADR](https://github.com/opencdx/ADR) repository. Stored data can then be easily queried using [OpenCDx ADR-gui](https://github.com/opencdx/ADR-gui). Additionally, the [OpenCDx UI Library](https://github.com/opencdx/ui-library) ensures visual consistency by providing reusable UI components across all platform interfaces.  
 
 **Below is a breakdown of the repositories under the OpenCDx organization**: 
 
@@ -47,7 +48,7 @@ OpenCDx serves as the core platform for managing clinical data in a healthcare e
 **Repository**: [OpenCDx GUI](https://github.com/opencdx/opencdx-gui)
 
 **Overview**:  
-OpenCDx GUI is the **graphical user interface** for interacting with the OpenCDx platform. It provides a user-friendly interface that allows clinical teams and system administrators to visualize and manage clinical data workflows. OpenCDx-GUI includes an admin dashboard for administrative control and and client app to configure interface for the public user.
+OpenCDx GUI is the **graphical user interface** for interacting with the OpenCDx platform. It provides a user-friendly interface that allows clinical teams and system administrators to visualize and manage clinical data workflows. OpenCDx-GUI includes an admin dashboard for administrative control and client app to configure interface for the public user.
 
 **Key Features**:
 - **Interactive Dashboard**: Centralized view of the OpenCDx system for monitoring and management.
@@ -105,7 +106,7 @@ The OpenCDx UI Library is a **set of reusable UI components** and **templates** 
 To get started with OpenCDx, follow these steps:
 
 1. **Minimum Installation:** Clone the essential [**OpenCDx Repository**](https://github.com/opencdx/opencdx), which provides core backend services, system GUI, and Swagger interfaces.
-2. Optionally, clone additional repositories as needed.
+2. Optionally, clone other repositories based on your requirements.
 3. Follow each repository's README for detailed installation instructions.
 4. Integrate and configure components to effectively manage clinical data.
 

@@ -12,6 +12,7 @@
   - [OpenCDx ADR-gui](#4-opencdx-adr-gui)
   - [OpenCDx UI Library](#5-opencdx-ui-library)
 - [Next Steps](#next-steps)
+- [OpenCDx Team Members](#opencdx-team-members)
    
 ## Introduction
 
@@ -110,8 +111,16 @@ To get started with OpenCDx, follow these steps:
 
 All OpenCDx repositories seamlessly integrate to offer a scalable and efficient solution for clinical data management and healthcare interoperability.
 
----
 For detailed overview read - [OpenCDx Initiative](https://github.com/opencdx/.github/blob/main/README.md)
+
+---
    
-   
+## OpenCDx Team Members   
+[Ravinder Singh (rsdeosi@gmail.com)](mailto:rsdeosi@gmail.com)   
+[Jeff Miller (jeff.miller@safehealth.me)](mailto:jeff.miller@safehealth.me)   
+[Ranga Lakshminarayanan (ranga.lakshminarayanan@safehealth.me)](mailto:ranga.lakshminarayanan@safehealth.me)   
+[Patrick Chou (patrick.chou@safehealth.me)](mailto:patrick.chou@safehealth.me)   
+[Karthick Rajamurugan (karthick.rajamurugan@safehealth.me)](mailto:karthick.rajamurugan@safehealth.me)   
+[Gaurav Mishra (gaurav.mishra@safehealth.me)](mailto:gaurav.mishra@safehealth.me)   
+
 

@@ -124,6 +124,31 @@ Explore additional resources and documentation to deepen your understanding of O
 - [OpenCDx Initiative Overview](https://github.com/opencdx/.github/blob/main/README.md)
 
 ---
+
+## Releases
+<table border="1">
+  <tr>
+    <th>Tag</th>
+    <th>Type</th> 
+    <th>Title</th>
+    <th colspan="2">OpenCDx Repositories</th>
+    <th colspan="2">ADR Repositories</th>
+    <th>ui-library</th>
+  </tr>
+  <tr>
+    <td>v1.0.0</td>
+    <td>Major Release</td>
+    <td>Initial Open Source Release of OpenCDx</td>
+    <td><a href="https://github.com/opencdx/opencdx/releases/tag/v1.0.0">opencdx</a></td>
+    <td><a href="https://github.com/opencdx/opencdx-gui/releases/tag/v1.0.0">opencdx-gui</a></td>
+    <td><a href="https://github.com/opencdx/ADR/releases/tag/v1.0.0">ADR</a></td>
+    <td><a href="https://github.com/opencdx/ADR-gui/releases/tag/v1.0.0">ADR-gui</a></td>
+    <td><a href="https://github.com/opencdx/ui-library/releases/tag/v1.0.0">ui-library</a></td>    
+  </tr>
+</table>
+
+
+---
    
 ## OpenCDx Team Members   
 [Ravinder Singh (rsdeosi@gmail.com)](mailto:rsdeosi@gmail.com)   

@@ -133,7 +133,7 @@ Explore additional resources and documentation to deepen your understanding of O
     <th>Title</th>
     <th colspan="2">OpenCDx Repositories</th>
     <th colspan="2">ADR Repositories</th>
-    <th>ui-library</th>
+    <th>UI Library</th>
   </tr>
   <tr>
     <td>v1.0.0</td>

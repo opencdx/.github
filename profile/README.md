@@ -1,8 +1,7 @@
 <!-- Announcement Banner -->
-| 🎉 **OpenCDx v1.0.1 is here!** |
+| [🎉 **OpenCDx v1.0.1 is here** ↓](#releases) |
 |--------------------------------|
-| Updated libraries, minor feature enhancements, and DX polish across repos.  
-👉 [Jump to the Releases ↓](#releases) |
+| Updated libraries, minor feature enhancements, and DX polish across repos.  |
 
 
 # Getting Started with OpenCDx

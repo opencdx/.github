@@ -1,3 +1,10 @@
+<!-- Announcement Banner -->
+| 🎉 **OpenCDx v1.0.1 is here!** |
+|--------------------------------|
+| Updated libraries, minor feature enhancements, and DX polish across repos.  
+👉 [Jump to the Releases ↓](#releases) |
+
+
 # Getting Started with OpenCDx
 
 ## <span style="color: rgba(131,56,138, 1);">OpenCDx — Engineered by Safe Health Systems, Inc.</span>

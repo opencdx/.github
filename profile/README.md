@@ -145,6 +145,16 @@ Explore additional resources and documentation to deepen your understanding of O
     <td><a href="https://github.com/opencdx/ADR-gui/releases/tag/v1.0.0">ADR-gui</a></td>
     <td><a href="https://github.com/opencdx/ui-library/releases/tag/v1.0.0">ui-library</a></td>    
   </tr>
+  <tr>
+    <td>v1.0.1</td>
+    <td>Minor Release</td>
+    <td>Updated librarie and improved developer experience</td>
+    <td><a href="https://github.com/opencdx/opencdx/releases/tag/v1.0.1">opencdx</a></td>
+    <td><a href="https://github.com/opencdx/opencdx-gui/releases/tag/v1.0.1">opencdx-gui</a></td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td><a href="https://github.com/opencdx/ui-library/releases/tag/v1.0.1">ui-library</a></td>    
+  </tr>  
 </table>
 
 

@@ -135,7 +135,8 @@ Explore additional resources and documentation to deepen your understanding of O
 <table border="1">
   <tr>
     <th>Tag</th>
-    <th>Type</th> 
+    <th>Release Type</th>
+    <th>Release Date</th>
     <th>Title</th>
     <th colspan="2">OpenCDx Repositories</th>
     <th colspan="2">ADR Repositories</th>
@@ -143,7 +144,8 @@ Explore additional resources and documentation to deepen your understanding of O
   </tr>
   <tr>
     <td>v1.0.0</td>
-    <td>Major Release</td>
+    <td>Major</td>
+    <td>04/14/2025</td>
     <td>Initial Open Source Release of OpenCDx</td>
     <td><a href="https://github.com/opencdx/opencdx/releases/tag/v1.0.0">opencdx</a></td>
     <td><a href="https://github.com/opencdx/opencdx-gui/releases/tag/v1.0.0">opencdx-gui</a></td>
@@ -153,8 +155,9 @@ Explore additional resources and documentation to deepen your understanding of O
   </tr>
   <tr>
     <td>v1.0.1</td>
-    <td>Minor Release</td>
-    <td>Updated librarie and improved developer experience</td>
+    <td>Minor</td>
+    <td>10/20/2025</td>
+    <td>Updated libraries and improved developer experience</td>
     <td><a href="https://github.com/opencdx/opencdx/releases/tag/v1.0.1">opencdx</a></td>
     <td><a href="https://github.com/opencdx/opencdx-gui/releases/tag/v1.0.1">opencdx-gui</a></td>
     <td>N/A</td>
@@ -162,7 +165,6 @@ Explore additional resources and documentation to deepen your understanding of O
     <td><a href="https://github.com/opencdx/ui-library/releases/tag/v1.0.1">ui-library</a></td>    
   </tr>  
 </table>
-
 
 ---
    
